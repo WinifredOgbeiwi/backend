@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "winifred imade ogbeiwi"
+	"author": "winifred imade ogbeiwi",
+	"description": "A project used for learning backend"
 }
